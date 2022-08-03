@@ -87,6 +87,6 @@ void fcfs()
 void main()
 {
     readInput();
-    //fcfs();
+    fcfs();
     
 }
